@@ -35,8 +35,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/abdelrahman-elsawy93/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:abdelrahman_elsawy@Live.com"><img alt="Email" src="https://img.shields.io/badge/abdelrahman elsawy email-blue?style=flat-square&logo=gmail"></a>
+<a href=""><img alt="Website" src="https://img.shields.io/badge/abdelrahman email-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/abdelrahman-elsawy93/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-abdelrahman elsawy-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:abdelrahman_elsawy@Live.com"><img alt="Email" src="https://img.shields.io/badge/abdelrahman elsawy-blue?style=flat-square&logo=gmail"></a>
 </p>
 
